@@ -414,8 +414,8 @@ The dataset is downloaded automatically at training time. If HuggingFace is unre
       <br/>
       <b>Vishwanath Reddy Ninganolla</b>
       <br/>
-      Co-Developer
-      <a href="https://github.com/523vishwanath">@LIkith1226</a>
+      (Co-Developer)
+      <a href="https://github.com/523vishwanath">@523vishwanath</a>
     </td>
   </tr>
 </table>
