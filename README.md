@@ -30,7 +30,6 @@
  
 ![Demo](assets/demo.gif)
 
-> **💡 Quick way to add your demo:** Record your screen with [OBS](https://obsproject.com/) or [Loom](https://loom.com), upload to YouTube, and replace the badge link above with your YouTube thumbnail + URL (see comments in this file).
 
 ---
 
