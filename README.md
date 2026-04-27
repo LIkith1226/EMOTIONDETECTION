@@ -26,28 +26,9 @@
 
 > 🎬 **Watch the app in action:**
 
-<!--
-  ✅ HOW TO ADD YOUR DEMO VIDEO — choose one option:
 
-  OPTION 1 ── YouTube embed (recommended):
-  Record your screen, upload to YouTube, then replace YOUR_VIDEO_ID below:
-
-    [![Demo Video](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
-
-  OPTION 2 ── Animated GIF in the repo:
-  Convert your screen recording to a GIF (use Gifski, Kap, or ShareX),
-  place it at assets/demo.gif, then uncomment:
-
-    ![Demo GIF](assets/demo.gif)
-
-  OPTION 3 ── GitHub-hosted MP4:
-  Drag-and-drop an .mp4 into any GitHub Issue comment box → GitHub gives
-  you a hosted URL. Paste it below:
-
-    <video src="https://github.com/LIkith1226/EMOTIONDETECTION/assets/YOUR_ASSET_URL.mp4" controls width="100%"></video>
--->
-
-[![Demo](assets/demo.gif)
+ 
+![Demo](assets/demo.gif)
 
 > **💡 Quick way to add your demo:** Record your screen with [OBS](https://obsproject.com/) or [Loom](https://loom.com), upload to YouTube, and replace the badge link above with your YouTube thumbnail + URL (see comments in this file).
 
