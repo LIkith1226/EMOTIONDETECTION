@@ -47,7 +47,7 @@
     <video src="https://github.com/LIkith1226/EMOTIONDETECTION/assets/YOUR_ASSET_URL.mp4" controls width="100%"></video>
 -->
 
-[![Demo Placeholder](https://img.shields.io/badge/▶%20Add%20Demo%20Video%20Here-FF6B35?style=for-the-badge&logo=youtube&logoColor=white)](https://github.com/LIkith1226/EMOTIONDETECTION)
+[![Demo](assets/demo.gif)
 
 > **💡 Quick way to add your demo:** Record your screen with [OBS](https://obsproject.com/) or [Loom](https://loom.com), upload to YouTube, and replace the badge link above with your YouTube thumbnail + URL (see comments in this file).
 
